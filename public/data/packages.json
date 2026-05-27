@@ -1,0 +1,214 @@
+[
+  {
+    "id": "la-fortuna",
+    "name": "La Fortuna - Arenal Volcano",
+    "description": "Discover the majestic Arenal Volcano, soak in natural hot springs, and hike through primary rainforest trails. This adventure combines volcanic landscapes with lush tropical biodiversity.",
+    "duration": "2 days / 1 night",
+    "price": 189,
+    "currency": "USD",
+    "image": "https://images.unsplash.com/photo-1580237072353-751f8263ea29?w=800&h=600&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1580237072353-751f8263ea29?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&h=800&fit=crop&q=80"
+    ],
+    "coordinates": [
+      [10.4679, -84.6431],
+      [10.4500, -84.5900],
+      [10.4800, -84.6200]
+    ],
+    "center": [10.4679, -84.6431],
+    "itinerary": [
+      {
+        "stop": "San Jose",
+        "description": "Pickup from your hotel in the Central Valley",
+        "distance": "Start",
+        "icon": "map-pin"
+      },
+      {
+        "stop": "Sarchí",
+        "description": "Brief stop at Costa Rica's artisan capital for coffee and painted oxcarts",
+        "distance": "45 km",
+        "icon": "coffee"
+      },
+      {
+        "stop": "La Fortuna Town",
+        "description": "Arrive and check in. Free time to explore the town center",
+        "distance": "90 km",
+        "icon": "home"
+      },
+      {
+        "stop": "Arenal Volcano Trails",
+        "description": "Guided hike through hardened lava fields with panoramic volcano views",
+        "distance": "5 km",
+        "icon": "mountain"
+      },
+      {
+        "stop": "Tabacón Hot Springs",
+        "description": "Relax in natural thermal waters surrounded by tropical gardens",
+        "distance": "8 km",
+        "icon": "waves"
+      }
+    ]
+  },
+  {
+    "id": "monteverde",
+    "name": "Monteverde Cloud Forest",
+    "description": "Walk among the clouds on suspended bridges through one of the world's most biodiverse cloud forests. Spot quetzals, howler monkeys, and over 400 bird species in their natural habitat.",
+    "duration": "2 days / 1 night",
+    "price": 215,
+    "currency": "USD",
+    "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&h=600&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1448375240586-882707db888b?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=800&fit=crop&q=80"
+    ],
+    "coordinates": [
+      [10.3155, -84.8259],
+      [10.3050, -84.7950],
+      [10.3200, -84.8100]
+    ],
+    "center": [10.3155, -84.8259],
+    "itinerary": [
+      {
+        "stop": "San Jose",
+        "description": "Early morning departure through the mountainous Central Valley",
+        "distance": "Start",
+        "icon": "map-pin"
+      },
+      {
+        "stop": "Sardinal",
+        "description": "Scenic route through coffee plantations and small rural towns",
+        "distance": "100 km",
+        "icon": "trees"
+      },
+      {
+        "stop": "Monteverde Reserve",
+        "description": "Guided walk on hanging bridges through the misty canopy",
+        "distance": "130 km",
+        "icon": "leaf"
+      },
+      {
+        "stop": "Night Walk",
+        "description": "Nocturnal tour to spot tree frogs, tarantulas, and sleeping birds",
+        "distance": "2 km",
+        "icon": "moon"
+      },
+      {
+        "stop": "Santa Elena",
+        "description": "Explore the charming town, local cheese factory, and hummingbird gardens",
+        "distance": "5 km",
+        "icon": "bird"
+      }
+    ]
+  },
+  {
+    "id": "puntarenas",
+    "name": "Puntarenas Pacific Coast",
+    "description": "Feel the Pacific breeze along Costa Rica's historic port town. Enjoy fresh ceviche on the boardwalk, cruise through mangrove estuaries, and watch the sunset paint the Gulf of Nicoya gold.",
+    "duration": "1 day",
+    "price": 95,
+    "currency": "USD",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=1200&h=800&fit=crop&q=80"
+    ],
+    "coordinates": [
+      [9.9762, -84.8383],
+      [9.9800, -84.8200],
+      [9.9700, -84.8500]
+    ],
+    "center": [9.9762, -84.8383],
+    "itinerary": [
+      {
+        "stop": "San Jose",
+        "description": "Depart through the scenic mountain pass to the Pacific lowlands",
+        "distance": "Start",
+        "icon": "map-pin"
+      },
+      {
+        "stop": "Orotina",
+        "description": "Stop at the famous fruit stands for fresh mango and cas juice",
+        "distance": "60 km",
+        "icon": "apple"
+      },
+      {
+        "stop": "Paseo de los Turistas",
+        "description": "Walk the iconic boardwalk and enjoy fresh seafood with ocean views",
+        "distance": "110 km",
+        "icon": "utensils"
+      },
+      {
+        "stop": "Isla Tortuga Viewpoint",
+        "description": "Panoramic views of the Gulf of Nicoya and distant Tortuga Island",
+        "distance": "5 km",
+        "icon": "eye"
+      }
+    ]
+  },
+  {
+    "id": "manuel-antonio",
+    "name": "Manuel Antonio National Park",
+    "description": "Where the rainforest meets the sea. Spot three-toed sloths, white-faced capuchins, and scarlet macaws, then cool off in the crystal-clear waters of one of the world's most beautiful beaches.",
+    "duration": "3 days / 2 nights",
+    "price": 320,
+    "currency": "USD",
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=600&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1500259571355-332da5cb07aa?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&h=800&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1200&h=800&fit=crop&q=80"
+    ],
+    "coordinates": [
+      [9.3920, -84.1375],
+      [9.3800, -84.1500],
+      [9.4000, -84.1300]
+    ],
+    "center": [9.3920, -84.1375],
+    "itinerary": [
+      {
+        "stop": "San Jose",
+        "description": "Head south along the Pacific Highway through tropical farmland",
+        "distance": "Start",
+        "icon": "map-pin"
+      },
+      {
+        "stop": "Jacó",
+        "description": "Brief stop at Costa Rica's surf capital for breakfast by the beach",
+        "distance": "100 km",
+        "icon": "waves"
+      },
+      {
+        "stop": "Quepos",
+        "description": "Base town for Manuel Antonio with local markets and restaurants",
+        "distance": "160 km",
+        "icon": "store"
+      },
+      {
+        "stop": "Manuel Antonio Park",
+        "description": "Full-day guided tour through primary forest trails to hidden beaches",
+        "distance": "7 km",
+        "icon": "palmtree"
+      },
+      {
+        "stop": "Playa Espadilla",
+        "description": "Free afternoon at one of Costa Rica's most photographed beaches",
+        "distance": "1 km",
+        "icon": "sun"
+      },
+      {
+        "stop": "Mangrove Boat Tour",
+        "description": "Morning kayak or boat tour through mangrove channels rich with wildlife",
+        "distance": "15 km",
+        "icon": "sailboat"
+      }
+    ]
+  }
+]
